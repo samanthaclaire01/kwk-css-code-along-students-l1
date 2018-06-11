@@ -1,1 +1,14 @@
-/* add CSS class and element and selectors here */
+body { 
+  background-color: lightblue; 
+  font-size: 100%;
+  
+}
+.samexampleclass { 
+  font-size: 300%; 
+  font-family: Impact;
+  color:white;
+  
+}
+.yeet { 
+  font-family: Verdana ;
+  }
